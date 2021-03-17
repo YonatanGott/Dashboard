@@ -6,7 +6,6 @@ import Player from './Player';
 
 const Team = ({ players, setChartData, removeGraph, title }) => {
 
-
     return (
         <Container maxWidth="lg" className="team-container">
             <Grid

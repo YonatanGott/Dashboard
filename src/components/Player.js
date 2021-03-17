@@ -182,8 +182,6 @@ const Player = ({ player, setChartData, removeGraph, title }) => {
         setShowPGraph(true)
     }
 
-
-
     return (
         <Grid item xs>
             <Paper elevation={3} className={classes.playerCard}>
